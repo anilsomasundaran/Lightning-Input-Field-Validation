@@ -1,0 +1,446 @@
+[
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1552843052671,
+            "changeTime": 1552843052671,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1552843052671,
+            "changeTime": 1552843052671,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1552843052676,
+            "changeTime": 1552843052676,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1552843052673,
+            "changeTime": 1552843052673,
+            "contentHash": "7b2cf0f4338626eec920f950c70728eb651b86c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1552843052673,
+            "changeTime": 1552843052673,
+            "contentHash": "562b68b529c7c3f3c8e69a5885826db5e31be6eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.auradoc",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1552843052671,
+            "changeTime": 1552843052671,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.cmp",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.cmp",
+            "isDirectory": false,
+            "size": 3151,
+            "modifiedTime": 1552843052671,
+            "changeTime": 1552843052671,
+            "contentHash": "24c284ac1d20b2b9fb64ee536789b87611de60b6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1552843052672,
+            "changeTime": 1552843052672,
+            "contentHash": "c505f77dbefb5fed15de678d105ed3d3f46314be",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.css",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1552843052672,
+            "changeTime": 1552843052672,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.design",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1552843052672,
+            "changeTime": 1552843052672,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.svg",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationForm.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1552843052672,
+            "changeTime": 1552843052672,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationFormController.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationFormController.js",
+            "isDirectory": false,
+            "size": 1092,
+            "modifiedTime": 1552843052673,
+            "changeTime": 1552843052673,
+            "contentHash": "84512b0ab030b441bfb9e3006873f2bec4012ca6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationFormHelper.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationFormHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1552843052673,
+            "changeTime": 1552843052673,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationFormRenderer.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/CustomValidationForm/CustomValidationFormRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1552843052673,
+            "changeTime": 1552843052673,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1552843052675,
+            "changeTime": 1552843052675,
+            "contentHash": "38dc5e684bdedc4577189fbcf95bbaa70057b8d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.app",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.app",
+            "isDirectory": false,
+            "size": 92,
+            "modifiedTime": 1552843052674,
+            "changeTime": 1552843052674,
+            "contentHash": "a0060bde03aab24a39018a334ebaf843ea5fd412",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.app-meta.xml",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.app-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1552843052674,
+            "changeTime": 1552843052674,
+            "contentHash": "383ef370ba68f18fa9b54e7199fcecbdd3f48697",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.auradoc",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1552843052674,
+            "changeTime": 1552843052674,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.css",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1552843052674,
+            "changeTime": 1552843052674,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.svg",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testapp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1552843052675,
+            "changeTime": 1552843052675,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testappController.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testappController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1552843052675,
+            "changeTime": 1552843052675,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testappHelper.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testappHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1552843052675,
+            "changeTime": 1552843052675,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testappRenderer.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/aura/testapp/testappRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1552843052675,
+            "changeTime": 1552843052675,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1553327302230,
+            "changeTime": 1553327302230,
+            "contentHash": "fe81b701a9dae7e48ddabfdd79b31388cf32898d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1553336384045,
+            "changeTime": 1553336384045,
+            "contentHash": "9da279be9cbe0f049c5f3a752670724e413bde01",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1116,
+            "modifiedTime": 1553338636722,
+            "changeTime": 1553338636722,
+            "isWorkspace": false,
+            "contentHash": "bcb00ab0d699e15965b740ae95618bc481c9d2a1"
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.js",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.js",
+            "isDirectory": false,
+            "size": 932,
+            "modifiedTime": 1553335588999,
+            "changeTime": 1553335588999,
+            "contentHash": "650670fc6c28bc50aeeac61846b17855fa141181",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.js-meta.xml",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.js-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1553333066882,
+            "changeTime": 1553333066882,
+            "contentHash": "f8d211fdd805bcb582b9452fc175aa4ddb80382b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1552843095614,
+            "changeTime": 1552843095614,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.css",
+        {
+            "sourcePath": "/Users/ani/Personal/DevelopmentArea/DevWorkspace/Salesforce/Lightning-Input-Field-Validation/CustomValidation/force-app/main/default/lwc/contactList/contactList.css",
+            "isDirectory": false,
+            "size": 66,
+            "modifiedTime": 1553336770813,
+            "changeTime": 1553336770813,
+            "contentHash": "c39c5caf7ac2b998b7536aa405564ee070b8c493",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

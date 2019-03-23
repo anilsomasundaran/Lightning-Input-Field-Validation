@@ -1,0 +1,25 @@
+<template>
+    <lightning-card title="My Available Contacts" variant="narrow" icon-name="standard:custom57">
+        <div class="slds-m-around_medium">
+            <template for:each={contacts} for:item='contact'>
+                
+                <lightning-layout vertical-align="center" key={contact.Id} class="slds-m-vertical_medium">
+                    <lightning-layout-item>
+                        <img src={contact.Picture__c} alt="Profile photo" />
+                    </lightning-layout-item>
+                    <lightning-layout-item padding="around-small">
+                        <p>{contact.Name}</p>
+                        <p>{contact.Title}</p>
+                        <p>
+                            <lightning-formatted-phone value={contact.Phone}></lightning-formatted-phone>
+                        </p>
+                    </lightning-layout-item>
+                </lightning-layout>
+
+            </template>
+        </div>
+        <div slot="footer">
+            <h6>Visit My <a href="http://techevangel.com">Blog</a> for more details...</h6>
+        </div>
+    </lightning-card>
+</template>
